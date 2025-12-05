@@ -2,8 +2,6 @@
 
 ### **_Human Resource Management_** System Using Node.js and MySQL
 
-This project is developed as a part of the IM24 subject requirements.
-
 ---
 
 ## Getting Started
